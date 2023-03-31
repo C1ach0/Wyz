@@ -1,0 +1,19 @@
+{
+  "name": "wyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "better-sqlite3": "^8.0.1",
+    "discord-api-types": "^0.37.30",
+    "discord.js": "^14.7.1",
+    "promise-mysql": "^5.2.0",
+    "quick.db": "^9.0.8"
+  }
+}
